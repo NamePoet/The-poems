@@ -1,0 +1,10 @@
+Problem statement
+We want to compare daily temperatures recorded during 2 different
+non bissextile years (2017 ¨C 2018 for example)
+Data
+For each year, a file with daily temperature (temperature at noon)
+Result
+Comparison :
+Mean temperature of year 1
+Mean temperature of year 2
+Day to day difference between the temperatures of first year and second year
